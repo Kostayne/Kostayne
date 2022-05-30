@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
     ul, ol, li {
         margin-left: 0;
     }
@@ -21,7 +21,7 @@
             margin-left: 0;
         }
     }
-</style>
+</style> -->
 
 <img src="assets/header_1.jpeg" style="max-width: 1920px;">
 
