@@ -61,7 +61,6 @@ Here is a list of my opensource npm packages:
 ![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-react-white?style=flat&logo=react)
 ![MaterialUi](https://img.shields.io/badge/-material_ui-white?style=flat&logo=mui)
-
 ![Tailwind](https://img.shields.io/badge/-tailwind-white?style=flat&logo=tailwindcss)
 ![Scss](https://img.shields.io/badge/-sass-white?style=flat&logo=sass)
 ![ReactQuery](https://img.shields.io/badge/-react_query-white?style=flat&logo=reactquery)
