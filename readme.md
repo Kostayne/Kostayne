@@ -23,6 +23,8 @@ Here is a list of my open source npm packages:
 - [Rehype absolute image](https://www.npmjs.com/package/rehype-abs-image)
 - [Rehype image size attribute](https://www.npmjs.com/package/rehype-img-size-attr)
 
+## Hosted pet projects
+- [Haikyuu! promo site on astro](https://haikyuu-promo.com/)
 
 ## Tools that i use:
 - Js, Ts (Primary) | Go, Rust, C++
