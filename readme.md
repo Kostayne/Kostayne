@@ -24,6 +24,7 @@ Here is a list of my open source npm packages:
 - [Rehype image size attribute](https://www.npmjs.com/package/rehype-img-size-attr)
 
 ## Hosted pet projects
+- [Personal site with blogs](https://kostayne.dev/)
 - [Haikyuu! promo site on astro](https://haikyuu-promo.com/)
 
 ## Tools that i use:
