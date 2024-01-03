@@ -23,6 +23,9 @@ Here is a list of my open source npm packages:
 - [Rehype absolute image](https://www.npmjs.com/package/rehype-abs-image)
 - [Rehype image size attribute](https://www.npmjs.com/package/rehype-img-size-attr)
 
+Github repos:
+- [File proof dApp](https://github.com/kostayne/file-proof)
+
 ## Hosted pet projects
 - [Personal site with blogs](https://kostayne.dev/)
 - [Haikyuu! promo site on astro](https://haikyuu-promo.com/)
