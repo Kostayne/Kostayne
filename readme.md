@@ -4,6 +4,8 @@ Hey there :wave:
 
 I'm a frontend developer, working on my own open source libraries, learning computer science, reading articles and just interesting in different stuff.
 
+Last open source repo: [File proof dApp](https://github.com/kostayne/file-proof)
+
 <!-- contacts -->
 [![Linkedin](https://img.shields.io/badge/-linkedin-white?style=?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/kostayne/)
 [![Mail](https://img.shields.io/badge/-@mail-white?style=flat&logo=email&logoColor=blue)](mailto:kostayne-dev@yandex.ru)
@@ -22,9 +24,6 @@ Here is a list of my open source npm packages:
 - [Get module style](https://www.npmjs.com/package/get-module-style)
 - [Rehype absolute image](https://www.npmjs.com/package/rehype-abs-image)
 - [Rehype image size attribute](https://www.npmjs.com/package/rehype-img-size-attr)
-
-Github repos:
-- [File proof dApp](https://github.com/kostayne/file-proof)
 
 ## Hosted pet projects
 - [Personal site with blogs](https://kostayne.dev/)
