@@ -1,7 +1,5 @@
 <img 
-    src="assets/retro_cover.jpg" 
-    width="100%"
-    height="50%"
+    src="assets/retro_cover_clipped.webp" 
 />
 
 Hey there :wave:
