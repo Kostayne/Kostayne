@@ -1,4 +1,8 @@
-<img src="assets/retro_cover.jpg" style="max-width: 810px; aspect-ratio: 32/9; object-fit: cover; object-position: center;">
+<img 
+    src="assets/retro_cover.jpg" 
+    width="100%"
+    height="50%"
+/>
 
 Hey there :wave:
 
