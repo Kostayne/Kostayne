@@ -4,7 +4,7 @@
 
 Hey there :wave:
 
-I'm a frontend developer, working on my own open source libraries, learning computer science, reading articles and just interesting in different stuff.
+I'm a frontend developer, working on my own open source libraries, learning computer science and just interesting in different stuff.
 
 Last open source repo: [File proof dApp](https://github.com/kostayne/file-proof)
 
