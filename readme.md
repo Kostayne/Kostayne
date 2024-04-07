@@ -6,7 +6,7 @@ Hey there :wave:
 
 I'm a frontend developer, working on my own open source libraries, learning computer science and just interesting in different stuff.
 
-Last open source repo: [File proof dApp](https://github.com/kostayne/file-proof)
+Last open source repo: [ERC20 Token with wallet](https://github.com/Kostayne/own-crypto-token)
 
 <!-- contacts -->
 [![Linkedin](https://img.shields.io/badge/-linkedin-white?style=?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/kostayne/)
