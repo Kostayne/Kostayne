@@ -4,8 +4,6 @@
 
 Hey there :wave:
 
-I'm a frontend developer, working on my own open source libraries, learning computer science and just interesting in different stuff.
-
 Last open source repo: [ERC20 Token with wallet](https://github.com/Kostayne/own-crypto-token)
 
 <!-- contacts -->
@@ -29,11 +27,10 @@ Here is a list of my open source npm packages:
 
 ## Hosted pet projects
 - [Personal site with blogs](https://kostayne.dev/)
-- [Haikyuu! promo site on astro](https://haikyuu-promo.com/)
 
 ## Tools that i use:
 - Js, Ts (Primary) | Go, Rust, C++
-- React, Vue
+- React, Vue, Svelte, Qwik
 - Astro, Next
 - Webpack, Vite, Esbuild, Swc
 - MaterialUi, ChakraUi, AntDesign 
