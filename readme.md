@@ -18,6 +18,7 @@ Last open source repo: [ERC20 Token with wallet](https://github.com/Kostayne/own
 
 ## Opensource
 Here is a list of my open source npm packages:
+- [K_Signals](https://www.npmjs.com/package/k-signals)
 - [Base ts result](https://www.npmjs.com/package/base-ts-result)
 - [React modifier](https://www.npmjs.com/package/react-modifier)
 - [React components manager](https://www.npmjs.com/package/k-react-cm)
@@ -25,8 +26,8 @@ Here is a list of my open source npm packages:
 - [Rehype absolute image](https://www.npmjs.com/package/rehype-abs-image)
 - [Rehype image size attribute](https://www.npmjs.com/package/rehype-img-size-attr)
 
-## Hosted pet projects
-- [Personal site with blogs](https://kostayne.dev/)
+<!-- ## Hosted pet projects -->
+<!-- - [Personal site with blogs](https://kostayne.dev/) -->
 
 ## Tools that i use:
 - Js, Ts (Primary) | Go, Rust, C++
