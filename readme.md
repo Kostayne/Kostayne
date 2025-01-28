@@ -4,7 +4,7 @@
 
 Hey there :wave:
 
-Last open source repo: [ERC20 Token with wallet](https://github.com/Kostayne/own-crypto-token)
+Last open source repo: [Entity Component System](https://github.com/Kostayne/ecs)
 
 <!-- contacts -->
 [![Linkedin](https://img.shields.io/badge/-linkedin-white?style=?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/kostayne/)
@@ -17,6 +17,12 @@ Last open source repo: [ERC20 Token with wallet](https://github.com/Kostayne/own
 - system programming
 
 ## Opensource
+Golang:
+- [Entity Component System](https://github.com/Kostayne/ecs)
+
+Crypto (ETH):
+- [ERC20 Token with wallet](https://github.com/Kostayne/own-crypto-token)
+
 Here is a list of my open source npm packages:
 - [K_Signals](https://www.npmjs.com/package/k-signals)
 - [Base ts result](https://www.npmjs.com/package/base-ts-result)
